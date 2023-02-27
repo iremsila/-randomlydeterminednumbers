@@ -1,4 +1,4 @@
-# -randomlydeterminednumbers
+# randomlydeterminednumbers
 Basamağı farklı olan 4 basamaklı bir sayı bilgisayar tarafından rastgele belirlenir.
 Numarayı bulana kadar kullanıcıdan 4 basamaklı bir sayı girmesi istenecektir. 
 Kullanıcı tarafından girilen sayının haneleri bilgisayardaki sayı ile karşılaştırılacak. 
